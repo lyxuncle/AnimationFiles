@@ -9,32 +9,6 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta name="format-detection" content="telephone=no" />
   <base target="_blank" />
-  <script>
-  !function(a){function b(){var b,c,e,i,f=a.document,g=f.documentElement,h=g.getBoundingClientRect().width;b||c||(i=!!a.navigator.appVersion.match(/AppleWebKit.*Mobile.*/),b=a.devicePixelRatio,e=a.devicePixelRatio,b=i?b:1,c=1/b),g.style.fontSize=h>=960?"40px":320>=h?"20px":20*(h/320)+"px"}a.addEventListener("resize",function(){b()}),b()}(window);
-  </script>
-  <style>
-		* { -webkit-tap-highlight-color: transparent; outline: 0; margin:0; padding:0; vertical-align:baseline;}
-		body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin: 0; padding: 0; vertical-align: baseline; }
-		img { border: 0 none; vertical-align: top; }
-		i, em { font-style: normal; }
-		ol, ul { list-style: none; }
-		input, select, button, h1, h2, h3, h4, h5, h6 { font-size: 100%; font-family: inherit; }
-		table { border-collapse: collapse; border-spacing: 0; }
-		a { text-decoration: none; color: #666; }
-		body { margin: 0 auto; min-width: 320px; max-width: 640px; height: 100%;font-size: 14px; font-family: Helvetica, STHeiti STXihei, Microsoft JhengHei, Microsoft YaHei, Arial; line-height: 1.5; color: #666; -webkit-text-size-adjust: 100% !important; -webkit-user-select: none; user-select: none;background-color:#F1F1F1;}
-		input[type="text"],textarea{-webkit-appearance: none;}
-
-		.header{width:100%;height:60px;line-height:60px;font-size:16px;border-bottom:1px solid #000000;color:#000000;text-align:center;margin-bottom:20px;}
-		.subheader{border-left:3px solid #3C9F2B;padding-left:5px;}
-  		h3{font-weight:normal;-webkit-transition:all ease .2s;padding-top:5px;}
-  		.showlist{width:100%;margin:0 10px 20px;}
-  			.showlist li{margin-bottom:5px;}
-  			.showlist a{height:90px;display:block;border-bottom:1px dashed #999999;position:relative;padding-left:90px;-webkit-transition:all ease .2s;}
-  				.showlist a:hover{background:#E0E0E0;}
-  				.showlist a:hover h3{color:#3C9F2B;}
-  			.showlist p{margin-left:20px;color:#999999;font-size:12px;}
-  			.showlist img{width:80px;height:80px;position:absolute;top:5px;left:5px;border-radius:5px;box-shadow:0 3px 10px rgba(0,0,0,0.2);}
-  </style>
 </head>
 <body>
 	<h1 class="header">聊聊动画构思-推荐</h1>
